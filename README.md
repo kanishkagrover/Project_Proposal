@@ -9,7 +9,7 @@
 - Data Visualization: Interactive and customizable dashboards for data visualization
 - Data Retrieval: Easy and secure data retrieval, download and export options
 
-![CMO PORTAL](image.jpg)
+![CMO PORTAL](https://raw.githubusercontent.com/kanishkagrover/Project_Proposal/refs/heads/main/CMO%20Portal.jpeg)
 
 ### **2. ⁠Back-end setup : Web application**
 
@@ -34,7 +34,7 @@ Data Visualization and Clearance-Based Access
 2. Data Visualization: The app displays the retrieved data in a visual format, such as charts, graphs, or tables, tailored to the user's clearance class.
 3. Clearance-Based Access: The app ensures that users can only access and view data that is authorized for their clearance class, maintaining data confidentiality and security.
 
-![BACKEND SETUP](image.jpg)
+![BACKEND SETUP](https://raw.githubusercontent.com/kanishkagrover/Project_Proposal/refs/heads/main/Backend%20Setup.jpeg)
 
 ### **3. Automating testing**
 
@@ -42,7 +42,7 @@ Data Visualization and Clearance-Based Access
 
 **Solution :**  Automate firmware testing processes, including unit testing, sanity checks, regression testing, integration testing, and nightly builds.
 
-![AUTOMATE TESTING](image.jpg)
+![AUTOMATE TESTING](https://raw.githubusercontent.com/kanishkagrover/Project_Proposal/refs/heads/main/FW%20testing.jpeg)
 
 ### **4. Algorithm development**:
 
